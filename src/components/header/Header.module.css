@@ -1,0 +1,17 @@
+.headerContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.btn {
+    margin: 1rem;
+}
+.userContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+p.darkMode {
+    color: white;
+}

@@ -1,0 +1,10 @@
+.cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cell p {
+    margin: 0;
+    padding: 0;
+    font-size: 2rem;
+}

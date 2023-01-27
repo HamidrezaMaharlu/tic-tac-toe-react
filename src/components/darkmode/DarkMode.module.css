@@ -1,0 +1,16 @@
+.btnDarkMode {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    padding: .5rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+svg {
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    padding: 0;
+}
